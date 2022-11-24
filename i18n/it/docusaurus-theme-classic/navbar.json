@@ -1,0 +1,14 @@
+{
+  "item.label.Documentation": {
+    "message": "Documentation",
+    "description": "Navbar item with label Documentation"
+  },
+  "item.label.Signup": {
+    "message": "Signup",
+    "description": "Navbar item with label Signup"
+  },
+  "item.label.Login": {
+    "message": "Login",
+    "description": "Navbar item with label Login"
+  }
+}
